@@ -16,27 +16,27 @@ I'm a passionate **fullstack developer** with a love for building robust web app
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Design & Development Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -44,6 +44,7 @@ I'm a passionate **fullstack developer** with a love for building robust web app
 
 I'm actively looking for opportunities to work on:
 - 🌐 **Web Development Projects** - Frontend, Backend, or Full-stack
+- 📱 **Mobile App Development** - React Native applications
 - 🔓 **Open-Source Contributions** - Let's build something amazing together!
 - 🚀 **Innovative Ideas** - Especially in JavaScript or PHP ecosystems
 
@@ -59,7 +60,7 @@ If you're working on something cool, I'd love to hear from you!
 - 🎨 [Another Project](https://github.com/capt-dhy/another-project) - What it does
 -->
 
-*More projects coming soon! Check out my [repositories](https://github.com/capt-dhy?tab=repositories) for more.*
+*Check out my [repositories](https://github.com/capt-dhy?tab=repositories) to see what I've been working on.*
 
 ---
 
